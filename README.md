@@ -10,14 +10,14 @@
 
 ## Business competences
 
-JavaScript is one of the most demanded programming skills <a href="https://it.jobindex.dk/jobsoegning?q=javascript&supid=1">ref: it.jobindex.dk</a>.
+JavaScript is one of the most demanded programming skills <a href="https://it.jobindex.dk/jobsoegning?q=javascript&supid=1" target="_blank">ref: it.jobindex.dk</a>.
 
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) , [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
+Day 1: <a href="https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit" target="_blank">The JavaScript Array</a> / <a href="https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit" target="_blank">JavaScript Ex-1</a>
 
-Day 2: [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
+Day 2: <a href="https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit" target="_blank">Dom Manipulation and Events</a>
 
 Day 3-5: CA-1
 
