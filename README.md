@@ -10,14 +10,14 @@
 
 ## Business competences
 
-JavaScript is one of the most demanded programming skills <a href="https://it.jobindex.dk/jobsoegning?q=javascript&supid=1" target="_blank">ref: it.jobindex.dk</a>.
+JavaScript is one of the most demanded programming skills. [ref: it.jobindex.dk](https://it.jobindex.dk/jobsoegning?q=javascript&supid=1)
 
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-Day 1: <a href="https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit" target="_blank">The JavaScript Array</a> / <a href="https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit" target="_blank">JavaScript Ex-1</a>
+Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit / [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
 
-Day 2: <a href="https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit" target="_blank">Dom Manipulation and Events</a>
+Day 2: [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
 
 Day 3-5: CA-1
 
@@ -29,7 +29,7 @@ Often when you google; articles from w3schools will pop up first. If you prefer 
 
 #### Our recommended resources for this week:
 ### Day-1 (plain JavaScript)
-- The [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction){:target="_blank"} (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
+- The [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 - [Course on Lynda.com](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1-4 + 9 (just skip sections you find to trivial)
 
 [Slides](http://sem3slides.mydemos.dk/js1/js.html)
