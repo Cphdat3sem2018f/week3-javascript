@@ -2,7 +2,7 @@
 
 ## Plan
 
-### Day 1 - An introduction to JavaScript
+### Day 1 - Introduction to JavaScript
 
 ### Day 2 - Document Object Model (DOM)
 
@@ -17,9 +17,9 @@ JavaScript this semester will provide students with the background to join moder
 ## Exercises 
 Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) , [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
 
-Day 2 [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
+Day 2: [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
 
-Day 3-5 [CA-1](https://docs.google.com/document/d/1BhpGi2B1lE8WYs8HEvOeGENFrCOhWEe1sHOG5CeTI04/edit#)
+Day 3-5: <a href="https://docs.google.com/document/d/1BhpGi2B1lE8WYs8HEvOeGENFrCOhWEe1sHOG5CeTI04/edit#">CA-1</a>
 
 ## Resources: 
 
