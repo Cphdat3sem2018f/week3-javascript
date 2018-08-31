@@ -10,7 +10,7 @@
 
 ## Business competences
 
-JavaScript is one of the most demanded programming skills <a href="https://it.jobindex.dk/jobsoegning?q=javascript&supid=1">ref: it.jobindex.dk ).
+JavaScript is one of the most demanded programming skills <a href="https://it.jobindex.dk/jobsoegning?q=javascript&supid=1">ref: it.jobindex.dk</a>.
 
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
