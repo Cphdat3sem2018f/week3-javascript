@@ -15,7 +15,7 @@ JavaScript is one of the most demanded programming skills. [ref: it.jobindex.dk]
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit / [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
+Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) / [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
 
 Day 2: [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
 
