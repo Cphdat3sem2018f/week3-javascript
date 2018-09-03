@@ -24,7 +24,7 @@ Day 1: [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHw
 
 Day 2: [Dom Manipulation and Events](https://docs.google.com/document/d/1bF7L1TRPlBX2liOoTO9_O0mUE7YROr0dYyQifKYg0TA/edit)
 
-Day 3-5: CA-1
+Day 3-5: [CA1](https://docs.google.com/document/d/1gprgpuUTR3TmbiEKpLDDyN0id3gRB-X3V4S6GfP01FU/edit?usp=sharing)
 
 ## Resources: 
 
