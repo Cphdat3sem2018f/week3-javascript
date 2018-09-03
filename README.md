@@ -1,6 +1,6 @@
 # Week3 - JavaScript and the Document Object Model (DOM)
 
-[JavaScript Plan](JavaScript_Plan.pdf)<br />
+[JavaScript Plan](Javascript_Plan.pdf)<br />
 [JavaScript Slides](JavaScript_Slides.pdf)<br />
 [JavaScript Notes](JavaScript_Notes.pdf)<br />
 
